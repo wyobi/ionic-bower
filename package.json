@@ -1,7 +1,8 @@
 {
   "name": "ionic",
-  "version": "1.3.2",
-  "description": "Ionic v1 distribution (CSS/JS/ionicons fonts) — wyobi fork of ionic-team/ionic-bower (abandoned upstream). Consumed by OpenItem3 fleet Server as a git dependency (replaces napa; removes the vulnerable decompress chain).",
+  "version": "1.3.5",
+  "description": "Ionic v1 distribution (CSS/JS/ionicons fonts) — wyobi fork of ionic-team/ionic-bower. Consumed by OpenItem3 as a git dependency (replaces napa; removes the vulnerable decompress chain).",
   "license": "MIT",
+  "author": "Drifty Co. (http://drifty.com/)",
   "repository": "github:wyobi/ionic-bower"
 }
